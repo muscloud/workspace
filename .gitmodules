@@ -1,0 +1,3 @@
+[submodule "musCloud.server"]
+	path = musCloud.server
+	url = https://github.com/muscloud/musCloud.server
